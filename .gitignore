@@ -1,0 +1,7 @@
+.env
+*.har
+theses.json
+__pycache__/
+theses.tmp
+app.db
+.claude/
